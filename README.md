@@ -66,27 +66,6 @@ The system visually represents the **SVSU campus layout** and calculates optimal
 - Modern Web Browser (Chrome, Edge, Firefox)
 - Internet connection (for CDN resources)
 
-### Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Open the project folder
-cd your-repo-name
-
-# Open index.html in browser
-svsu-campus-navigation/
-│
-├── index.html
-├── README.md
-├── LICENSE
-└── assets/
-    └── images/
-        ├── welcome_page.png
-        ├── home_page.png
-        ├── result_page.png
-        └── reached_page.png
 🚶 Navigation Modes
 
 Walking Mode – Optimized pedestrian paths
