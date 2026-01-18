@@ -100,13 +100,13 @@ Web APIs – Speech Synthesis & Geolocation
 ![Reached Page](assets/images/reached_page.png)
 ⚠️ Known Issues & Limitations
 
-Limited to SVSU Dudhola campus
+**Limited to SVSU Dudhola campus**
 
 Requires internet for external resources
 
 Indoor navigation not included (yet)
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 Indoor floor-wise navigation
 
@@ -118,8 +118,8 @@ Mobile application (Android/iOS)
 
 Multi-language support
 
-🌐 Browser Compatibility
-Browser	Support
+**🌐 Browser Compatibility
+Browser	Support**
 Chrome	✅ Full
 Edge	✅ Full
 Firefox	⚠️ Partial
@@ -128,12 +128,12 @@ Safari	⚠️ Limited
 
 This project is licensed under the MIT License.
 
-👤 Author
+**👤 Author**
 
 Sonam Patel
 B.Tech CSE (AI & ML)
 Shri Vishwakarma Skill University
 
-📞 Contact
+**📞 Contact**
 
-📧 Email: your-patelsonam926@gmail.com
+**📧 Email:** your-patelsonam926@gmail.com
